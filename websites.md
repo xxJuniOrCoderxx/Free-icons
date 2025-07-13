@@ -44,4 +44,6 @@
 https://getemoji.com/
 
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dc681d0c-6e95-48a4-9bb8-f5c7b2a011df" />  Merhaba
+## Resource
+
+https://www.youtube.com/playlist?list=PLdctvM0pDo0tNRIH5Q8saJmxSIMBPpnGf
