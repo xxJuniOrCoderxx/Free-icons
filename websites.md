@@ -40,6 +40,10 @@
 
 [3D Icons](https://3dicons.co/)
 
+## vfoanğdbd
+
+https://www.lummi.ai/
+https://www.freepik.com/
 
 https://getemoji.com/
 
